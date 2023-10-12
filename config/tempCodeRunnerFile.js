@@ -1,0 +1,1 @@
+const URL = 'mongodb+srv://admin1234:admin1234@cluster0.kvkoa7t.mongodb.net/?retryWrites=true&w=majority';
